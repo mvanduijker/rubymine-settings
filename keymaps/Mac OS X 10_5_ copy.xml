@@ -1,0 +1,8 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+</keymap>
